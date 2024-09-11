@@ -2,6 +2,7 @@
 
 ### Проект в Qase: 
 [Ссылка на отчет](https://app.qase.io/public/report/d1c79a51721a15c53382056080ffbdadef5f472a)
+![case mesto](https://github.com/user-attachments/assets/7395fe17-a56f-4c12-aebc-4c7ca0d67db4)
 
 ### Баг-репорты в YouTrack:
 - **24V-2 [Mesto BUG-1]** Не сохраняются введённые данные в область редактирования профиля 
